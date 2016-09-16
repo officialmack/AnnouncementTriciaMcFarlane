@@ -1,0 +1,28 @@
+body {
+    background-color: darkorange;
+}
+head {font-family: ;
+}
+h1{
+    font-size: 900%; 
+    font-family: xband rough;
+    text-transform: uppercase;
+    text-decoration: 
+}
+h2{
+    font-size: 500%; 
+    font-family: xband rough;
+    text-transform: uppercase;
+    text-decoration: 
+}
+
+a {color: black; }
+
+p {font-family: helvetica;
+	font-weight:bold;
+	font-size: 150%;
+	}
+
+footer {font-family: xband rough;
+		font-weight:bold;
+    	font-size: 200%;}
