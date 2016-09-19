@@ -14,4 +14,11 @@ footer {font-family: xband rough;
 		font-weight:bold;
     	font-size: 200%;}
 
-    	
+a 	{
+		color: black;
+}
+
+a:link {
+    text-decoration: none;
+    color: black;
+}
